@@ -1,6 +1,6 @@
 # Hey There! <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>
 
-### 👨🏽‍💻 I'm Full Stack Developer who is passionate about Software Development
+### 👨🏽‍💻 I'm Full Stack Software Developer from 🇨🇦
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cesar-santamaria&show_icons=true&theme=dark"/>
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-santamaria&layout=compact"/>
