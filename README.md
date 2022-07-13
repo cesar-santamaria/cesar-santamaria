@@ -3,7 +3,7 @@
 ### 👨🏽‍💻 I'm a Full Stack Software Developer from 🇨🇦
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cesar-santamaria&show_icons=true&theme=dark"/>
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-santamaria&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-santamaria&layout=compact"/>
 
 <b>Find me on:<b>
 <br>
