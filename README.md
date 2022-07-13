@@ -1,4 +1,4 @@
-# Hey There! <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>
+# <img src="https://github.com/cesar-santamaria/cesar-santamaria/blob/main/.github/images/peace.gif?raw=true" alt="twitter" width="45" height="45"/> `Hey There!` 
 
 ### 👨🏽‍💻 I'm Cesar, a Full Stack Software Developer from 🇨🇦
 
@@ -8,7 +8,7 @@
 <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cesar-s-23082a1ba)
 
-# Skills
+# <img src="https://github.com/cesar-santamaria/cesar-santamaria/blob/main/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/> Skills 
 <br>
 <img align="left" src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img align="left" src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
