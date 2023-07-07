@@ -2,8 +2,6 @@
 
 ### 👨🏽‍💻 I'm Cesar, a Software Developer from 🇨🇦
 
-<img src="https://github-readme-stats.vercel.app/api?username=cesar-santamaria&show_icons=true&theme=dark"/>
-
 <b>Find me on:<b>
 <br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cesar-s-23082a1ba)
