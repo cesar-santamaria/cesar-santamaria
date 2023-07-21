@@ -1,6 +1,6 @@
 # <img src="https://github.com/cesar-santamaria/cesar-santamaria/blob/main/.github/images/peace.gif?raw=true" alt="twitter" width="45" height="45"/> `Hey There!` 
 
-### 👨🏽‍💻 I'm Cesar, a Software Developer from 🇨🇦
+### 👨🏽‍💻 I'm Cesar
 
 <b>Find me on:<b>
 <br>
