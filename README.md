@@ -2,10 +2,6 @@
 
 ### 👨🏽‍💻 I'm Cesar
 
-<b>Find me on:<b>
-<br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cesar-s-23082a1ba)
-
 # <img src="https://github.com/cesar-santamaria/cesar-santamaria/blob/main/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/> Skills 
 <br>
 <img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
