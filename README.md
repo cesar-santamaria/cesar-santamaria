@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Audio-to-SRT translator**
 
-- 🌱 I’m currently studying **CS 50 Harvard course**
+- 🌱 I’m currently studying **CS 50 Harvard course** & **Liquid**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cesar-santamaria.vercel.app/](https://portfolio-cesar-santamaria.vercel.app/)
 
